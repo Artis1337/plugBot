@@ -1,32 +1,32 @@
 {
 
-    "nodatafound": "No previous data found.",
-    "retrievingdata": "Retrieving previously stored data.",
-    "datarestored": "Previously stored data successfully retrieved.",
-    "greyuser": "Only bouncers and up can run a bot.",
-    "bouncer": "The bot can't move people when it's run as a bouncer.",
-    "online": "/me %%BOTNAME%% v%%VERSION%% online!",
+    "nodatafound": "Nerasta senesnių įrašų.",
+    "retrievingdata": "Gaunama praeita informacija.",
+    "datarestored": "Sena informacija sėkmingai įkelta.",
+    "greyuser": "Tik bouncer ir aukštesnio rango žmogus gali paleisti botą.",
+    "bouncer": "Botas negali perkelti žmogaus kai jis įjungtas kaip bouncer.",
+    "online": "/me plugBot v1.0.0 by Artis1337 įjungtas!",
 
 
-    "welcome": "/me Welcome %%NAME%%",
-    "welcomeback": "/me Welcome back, %%NAME%%",
+    "welcome": "/me Sveikas(-a) atvykęs(-usi) %%NAME%%",
+    "welcomeback": "/me Sveikas(-a) sugrįžęs(-usi), %%NAME%%",
     "songknown": "/me :repeat: This song has been played %%PLAYS%% time(s) in the last %%TIMETOTAL%%, last play was %%LASTTIME%% ago. :repeat:",
-    "timelimit": "/me @%%NAME%%, your song is longer than %%MAXLENGTH%% minutes, you need permission to play longer songs.",
-    "permissionownsong": "/me :up: @%%NAME%% has permission to play their own production!",
-    "isblacklisted": "/me This track is on the %%BLACKLIST%% blacklist! Skipping...",
+    "timelimit": "/me @%%NAME%%, jūsų daina ilgesnė nei %%MAXLENGTH%% minutės, jums reikia leidimo groti ilgiau.",
+    "permissionownsong": "/me :up: @%%NAME%% turi leidimą groti jo(-s) kūrinius!",
+    "isblacklisted": "/me Ši daina %%BLACKLIST%% juodajame saraše! Išjungiama...",
 
 
-    "isopen": "/me The roulette is now open! Type !join to participate!",
-    "winnerpicked": "/me A winner has been picked! @%%NAME%% to position %%POSITION%%.",
+    "isopen": "/me Ruletė dabar įjungta! Rašyk !join kad dalyvautum!",
+    "winnerpicked": "/me Laimėtojas išrinktas! @%%NAME%% į poziciją %%POSITION%%.",
 
 
-    "alreadyadding": "/me User is already being added! Changed the desired position to %%POSITION%%.",
-    "adding": "/me Added @%%NAME%% to the queue. Current queue: %%POSITION%%.",
+    "alreadyadding": "/me Vartotojas jau buvo pridėtas! Buvusi pozicijas pakeista į %%POSITION%%.",
+    "adding": "/me @%%NAME%% pridėtas(-a) į eilę. Dabartinė eilė: %%POSITION%%.",
 
 
-    "usernotfound": "/me User not found.",
-    "notdisconnected": "/me @%%NAME%% did not disconnect during my time here.",
-    "noposition": "/me No last position known. The waitlist needs to update at least once to register a user's last position.",
+    "usernotfound": "/me Vartotojas nerastas.",
+    "notdisconnected": "/me @%%NAME%% nebuvo atsijungęs kol aš čia.",
+    "noposition": "/me Nežinoma paskutinė pozicija. Sąrašas turi persikrauti bent vieną kartą, kad gauti vartotojo paskutinę poziciją.",
     "toolongago": "/me @%%NAME%%'s last disconnect (DC or leave) was too long ago: %%TIME%%.",
     "valid": "/me @%%NAME%% disconnected %%TIME%% ago and should be at position %%POSITION%%.",
 
