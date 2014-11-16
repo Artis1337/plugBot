@@ -1531,7 +1531,7 @@
             },
 
             cookieCommand: {
-                command: 'cookie',
+                command: 'sausainis',
                 rank: 'user',
                 type: 'startsWith',
                 cookies: ['has given you a chocolate chip cookie!',
