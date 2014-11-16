@@ -5,7 +5,7 @@
     "datarestored": "Sena informacija sėkmingai įkelta.",
     "greyuser": "Tik bouncer ir aukštesnio rango žmogus gali paleisti botą.",
     "bouncer": "Botas negali perkelti žmogaus kai jis įjungtas kaip bouncer.",
-    "online": "/me plugBot v1.0.0 by Artis1337 įjungtas!",
+    "online": "/me plugBot v1.0.0 įjungtas!",
 
 
     "welcome": "/me Sveikas(-a) atvykęs(-usi) %%NAME%%",
